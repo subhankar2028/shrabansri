@@ -7,7 +7,8 @@ $(document).ready(function () {
     centerMode: true,
     centerPadding: '0',
     autoplay: true,
-    autoplaySpeed: 1800,
+    autoplaySpeed: 2800,
+    speed: 600,
     responsive: [
       {
         breakpoint: 991,
